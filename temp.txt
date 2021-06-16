@@ -1,2 +1,3 @@
 This is temperory file created for demonstrating merging operation.
 This file is created by Sameer Joshi.
+Name of this file is temp.txt
